@@ -25,8 +25,7 @@ Currently it supports English (en) and German (de) only, but there is a lot of r
 
 * Python 3.7 or above
 * PyTorch 1.1.0 or above
-* PySyft 0.1 or above (optional)
-* Matplotlib 3.0 or above (optional)
+* Matplotlib 3.0 or above
 
 ## Running
 This program allows you to send messages directly from your command line to the internet and connect to a server located anywhere.<br>
