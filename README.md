@@ -1,5 +1,5 @@
-# Open Chat
-This repository contains the showcase project developed in the Secure and Private AI Scholarship. For more details, please visit this site
+# Open Chat [This repo is still under progress]
+This repository contains the showcase project developed in the Secure and Private AI Scholarship. For more details, please visit this site.
 
 Author: Biswajit Banerjee <br>
 Email : sumonbanner@gmail.com <br>
