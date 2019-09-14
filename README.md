@@ -16,7 +16,7 @@ Currently it supports English (en) and German (de) only, but there is a lot of r
 <br>
 
 <b>Socket</b>: *A socket is one endpoint of a two-way communication link between two programs running on the network*.
-> In simpler terms, a socket is a network object the helps sending and reciving message over the internet
+> In simpler terms, a socket is a network object that helps in sending and reciving message over the internet
 
 ## Requirements
 
