@@ -70,7 +70,7 @@ Output:  i am glad i am with you.
 
 ```
 Some visuals of the entire users and server <br>
-[Example](./files/example2.png?raw=true 'Example')
+![Example](./files/example2.png)
 More can be found inside files folder.
 
 
