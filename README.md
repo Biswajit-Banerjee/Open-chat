@@ -23,7 +23,8 @@ Currently it supports English (en) and German (de) only, but there is a lot of r
 * Python 3.7 or above
 * PyTorch 1.1.0 or above
 * Matplotlib 3.0 or above
-* German to English  model [click here](https://drive.google.com/open?id=1TYEKwDjlnC5eC-BuNDKjI4xlUAgj6ArU)
+* German  to English  model [click here](https://drive.google.com/open?id=1TYEKwDjlnC5eC-BuNDKjI4xlUAgj6ArU)
+* English to German   model [click here](https://drive.google.com/open?id=1TWQjb1AHsZOBN070QERJfio6iXIAn1vF)
 
 ## Running
 This program allows you to send messages directly from your command line to the internet and connect to a server located anywhere.<br>
