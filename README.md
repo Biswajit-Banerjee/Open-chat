@@ -1,4 +1,4 @@
-# Open Chat [This repo is still in progress]
+# Open Chat 
 This repository contains the showcase project, developed for the Secure and Private AI Scholarship, which won special honor in that competetion.
 
 
